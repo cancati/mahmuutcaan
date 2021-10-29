@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=mahmuutcaan&show_icons=true">
 
-<!--
-**mahmuutcaan/mahmuutcaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Merhaba, ben Mahmut Can Çatı! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmuutcaan” alt=“mahmuutcaan” /> </p>
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/twitter/follow/mertcobanov?style=social)](https://twitter.com/mahmuuttcaan)
+[![](https://img.shields.io/github/followers/cobanov?style=social)](https://www.github.com/mahmuutcaan)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mahmuuttcaan)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmutcancati/)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mcancati)
+[![Mail Badge](https://img.shields.io/badge/mahmuutcaan@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mahmuutcaan@gmail.com)](mailto:mahmuutcaan@gmail.com)
