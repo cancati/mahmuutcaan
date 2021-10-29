@@ -3,7 +3,7 @@
 # Merhaba, ben Mahmut Can Çatı! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmuutcaan” alt=“mahmuutcaan” /> </p>
 
-[![](https://img.shields.io/twitter/follow/mahmut can cati?style=social)](https://twitter.com/mahmuuttcaan)
+[![](https://img.shields.io/twitter/follow/mahmutcancati?style=social)](https://twitter.com/mahmuuttcaan)
 [![](https://img.shields.io/github/followers/mahmuuttcaan?style=social)](https://www.github.com/mahmuutcaan)
 
 
