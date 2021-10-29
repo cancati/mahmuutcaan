@@ -3,8 +3,8 @@
 # Merhaba, ben Mahmut Can Çatı! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmuutcaan” alt=“mahmuutcaan” /> </p>
 
-[![](https://img.shields.io/twitter/follow/mahmutcancati?style=social)](https://twitter.com/mahmuuttcaan)
-[![](https://img.shields.io/github/followers/mahmuuttcaan?style=social)](https://www.github.com/mahmuutcaan)
+[![](https://img.shields.io/twitter/follow/mahmuuttcaan?style=social)](https://twitter.com/mahmuuttcaan)
+[![](https://img.shields.io/github/followers/mahmuutcaan?style=social)](https://www.github.com/mahmuutcaan)
 
 
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/mahmuuttcaan)
