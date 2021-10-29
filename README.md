@@ -1,8 +1,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mahmuutcaan&show_icons=true">
 
 # Merhaba, ben Mahmut Can Çatı! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmuutcaan” alt=“mahmuutcaan” /> </p>
-
+  
+![](https://komarev.com/ghpvc/?username=mahmuutcaan&color=yellow)
 [![](https://img.shields.io/twitter/follow/mahmuuttcaan?style=social)](https://twitter.com/mahmuuttcaan)
 [![](https://img.shields.io/github/followers/mahmuutcaan?style=social)](https://www.github.com/mahmuutcaan)
 
